@@ -1,0 +1,16 @@
+{
+  "categorias": [
+      {
+          "id": 1,
+          "nome" : "dsds",
+          "descricao:": "dsds",
+          "cor": "#000000"
+      },
+      {
+        "id": 1,
+        "nome" : "fdfd",
+        "descricao:": "fdfd",
+        "cor": "#000000"
+      }
+  ]
+}
